@@ -11,8 +11,8 @@
 
   
 ## 1. 💡 Business Objectives
-  • Evaluate overall and segmented sales performance by outlet and product features.
-  • Find high-growth opportunities by location, size, and outlet type.
+• Evaluate overall and segmented sales performance by outlet and product features.
+• Find high-growth opportunities by location, size, and outlet type.
   • Spot trends in consumer preference (fat content, rating, category).
   • Present findings in a management-ready Excel dashboard.
 
