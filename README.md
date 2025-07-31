@@ -7,7 +7,7 @@
   • Data Preparation & Data Visualization
   • Dashboard Building & Business Reporting
 
-# Dashboard Interaction 
+# Dashboard Interaction <a href="https://github.com/dhruv-kad1a/BlinkIT-Dashboard-Grocery-Sales-Analytics-Project/blob/main/Dashboard.PNG"> View Dashboard </a>
 
   
 ## 1. 💡 Business Objectives
